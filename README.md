@@ -3,9 +3,9 @@
 
 - 📊 Atualmente trabalho no Exército brasileiro 
 - 🌱 No momento estou aprendendo Phyton, C#, C++
-- 🤝 estou procurando colaborar com qualquer projeto open source 
+- 🤝 I'm looking to collaborate with any open source project 
 - 📫 How to reach me Luaanliima@live.com
-- 📚 estou procurando ajuda para meu desenvolvimento profissional
+- 📚 I'm looking for help with my professional development
 
 <div align="center">
   <a href="https://github.com/luanliima">
