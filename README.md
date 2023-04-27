@@ -1,8 +1,6 @@
                                 👋 OLÁ, EU SOU LUAN LIMA
 
-
-- 📊 Atualmente trabalho no Exército brasileiro 
-- 🌱 No momento estou aprendendo Phyton, C#, C++
+- 🌱 No momento estou aprendendo Phyton, CSS, HTML e JS
 - 🤝 I'm looking to collaborate with any open source project 
 - 📫 How to reach me Luaanliima@live.com
 - 📚 I'm looking for help with my professional development
